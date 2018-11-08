@@ -1,1 +1,1 @@
-NYC Fare prediction using sklearn. Part of Google Cloud's Kaggle Competition.
+NYC Fare prediction using sklearn. Part of Google Cloud and Coursera's Kaggle Competition. You can download the full dataset (~1.7GB) here: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction.
